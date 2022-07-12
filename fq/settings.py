@@ -29,7 +29,7 @@ SECRET_KEY = '6slmuc-b)he*iwb6cpz_!ynmy%n4a^^*%dc=!!v+zjz6&gbio!'
 DEBUG = False
 
 #ALLOWED_HOSTS = ['172.31.25.236',' Foodica-env.eba-kfh3tpnv.us-west-2.elasticbeanstalk.com']
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'foodica-django.herokuapp.com']
 
 
 # Application definition
